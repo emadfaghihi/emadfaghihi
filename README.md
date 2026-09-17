@@ -1,23 +1,43 @@
-# Emad Faghihi
+# Hi, I'm Emad Faghihi 👋
 
-Senior Frontend Engineer focused on building scalable, maintainable,
-and high-performance web applications.
+### Senior Frontend Engineer
 
-I work primarily with React, Next.js, and TypeScript, with experience
-in frontend architecture, legacy migrations, SSR, performance optimization,
-and large-scale production applications.
+I build scalable, maintainable, and high-performance web applications with a strong focus on **React, Next.js, and TypeScript**.
 
-## Core Stack
+My professional experience includes frontend architecture, legacy system modernization, SSR, performance optimization, and building large-scale production applications.
 
-React · Next.js · TypeScript · JavaScript
-Redux Toolkit · React Query
+I also have experience designing maintainable frontend structures, improving existing codebases, conducting code reviews, and providing technical guidance within development teams.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+React · Next.js · TypeScript · JavaScript · HTML · CSS / Sass
+
+**State & Data**
+Redux Toolkit · RTK Query · React Query
+
+**UI & Styling**
 Tailwind CSS · Material UI
-Vite · Nx · Monorepos · Git
 
-## Selected Work
+**Architecture & Tooling**
+SSR · Vite · Nx · Monorepos · Git
 
-<!-- 3 selected repositories go here -->
+---
 
-## Connect
+## 💡 What I Focus On
 
-LinkedIn · Email
+* Scalable frontend architecture
+* Modern React & Next.js applications
+* Performance optimization
+* Server-Side Rendering
+* Legacy system modernization
+* Clean and maintainable TypeScript codebases
+* Code review and technical collaboration
+
+---
+
+## 🤝 Connect
+
+[LinkedIn](https://www.linkedin.com/in/emad-faghihi) · [Email](mailto:emadfaghihi@yahoo.com)
