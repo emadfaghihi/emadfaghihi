@@ -1,16 +1,23 @@
-## Hi there 👋
+# Emad Faghihi
 
-<!--
-**emadfaghihi/emadfaghihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer focused on building scalable, maintainable,
+and high-performance web applications.
 
-Here are some ideas to get you started:
+I work primarily with React, Next.js, and TypeScript, with experience
+in frontend architecture, legacy migrations, SSR, performance optimization,
+and large-scale production applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Stack
+
+React · Next.js · TypeScript · JavaScript
+Redux Toolkit · React Query
+Tailwind CSS · Material UI
+Vite · Nx · Monorepos · Git
+
+## Selected Work
+
+<!-- 3 selected repositories go here -->
+
+## Connect
+
+LinkedIn · Email
