@@ -1,43 +1,30 @@
-# Hi, I'm Emad Faghihi 👋
+<div align="center">
 
-### Senior Frontend Engineer
+# Emad Faghihi
 
-I build scalable, maintainable, and high-performance web applications with a strong focus on **React, Next.js, and TypeScript**.
+**Senior Frontend Engineer**
 
-My professional experience includes frontend architecture, legacy system modernization, SSR, performance optimization, and building large-scale production applications.
+<p>
+  <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" height="24" />
+  <img src="https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" height="24" />
+  <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" height="24" />
+</p>
 
-I also have experience designing maintainable frontend structures, improving existing codebases, conducting code reviews, and providing technical guidance within development teams.
+[LinkedIn](https://www.linkedin.com/in/emad-faghihi)  ·  [Email](mailto:emadfaghihi@yahoo.com)
 
----
+</div>
 
-## 🛠 Tech Stack
+<br>
 
-**Frontend**
-React · Next.js · TypeScript · JavaScript · HTML · CSS / Sass
+I build and modernize production web applications. My work spans **frontend architecture**, **server-side rendering**, **performance optimization**, and **legacy migrations**.
 
-**State & Data**
-Redux Toolkit · RTK Query · React Query
+## Tech Stack
 
-**UI & Styling**
-Tailwind CSS · Material UI
+| Area             | Technologies                               |
+| :--------------- | :----------------------------------------- |
+| **Languages**    | TypeScript · JavaScript                    |
+| **State & Data** | Redux Toolkit · RTK Query · TanStack Query |
+| **UI & Styling** | Tailwind CSS · Material UI · Sass          |
+| **Tooling**      | Vite · Nx · Git                            |
 
-**Architecture & Tooling**
-SSR · Vite · Nx · Monorepos · Git
-
----
-
-## 💡 What I Focus On
-
-* Scalable frontend architecture
-* Modern React & Next.js applications
-* Performance optimization
-* Server-Side Rendering
-* Legacy system modernization
-* Clean and maintainable TypeScript codebases
-* Code review and technical collaboration
-
----
-
-## 🤝 Connect
-
-[LinkedIn](https://www.linkedin.com/in/emad-faghihi) · [Email](mailto:emadfaghihi@yahoo.com)
+<sub>Most of my professional work lives in private or company-owned repositories.</sub>
